@@ -1,0 +1,6 @@
+﻿  SmartPointer.cpp
+  Transaction.cpp
+  Создание кода...
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall SmartPointer<class Account_test<int> >::~SmartPointer<class Account_test<int> >(void)" (??1?$SmartPointer@V?$Account_test@H@@@@QAE@XZ) в функции "public: __thiscall Transaction<class Account_test<int> >::~Transaction<class Account_test<int> >(void)" (??1?$Transaction@V?$Account_test@H@@@@QAE@XZ).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Transaction<class Account_test<int> >::Transaction<class Account_test<int> >(void)" (??0?$Transaction@V?$Account_test@H@@@@QAE@XZ) в функции _main.
+E:\OOP\Lab1\Debug\Lab2.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
